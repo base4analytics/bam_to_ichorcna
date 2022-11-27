@@ -1,0 +1,7 @@
+Module	Section	Sample Name	Source
+Samtools	stats	SAMPLE_SINGLE_END_T1	/workspace/tools/nf-core-bamtoichorcna/work/3e/9acef0564ecdcaa59b8c99df063b17/11/SAMPLE_SINGLE_END_T1.stats
+Samtools	stats	SAMPLE_PAIRED_END_T1	/workspace/tools/nf-core-bamtoichorcna/work/3e/9acef0564ecdcaa59b8c99df063b17/12/SAMPLE_PAIRED_END_T1.stats
+Samtools	flagstat	SAMPLE_PAIRED_END_T1	/workspace/tools/nf-core-bamtoichorcna/work/3e/9acef0564ecdcaa59b8c99df063b17/9/SAMPLE_PAIRED_END_T1.flagstat
+Samtools	flagstat	SAMPLE_SINGLE_END_T1	/workspace/tools/nf-core-bamtoichorcna/work/3e/9acef0564ecdcaa59b8c99df063b17/10/SAMPLE_SINGLE_END_T1.flagstat
+Samtools	idxstats	SAMPLE_PAIRED_END_T1	/workspace/tools/nf-core-bamtoichorcna/work/3e/9acef0564ecdcaa59b8c99df063b17/7/SAMPLE_PAIRED_END_T1.idxstats
+Samtools	idxstats	SAMPLE_SINGLE_END_T1	/workspace/tools/nf-core-bamtoichorcna/work/3e/9acef0564ecdcaa59b8c99df063b17/8/SAMPLE_SINGLE_END_T1.idxstats

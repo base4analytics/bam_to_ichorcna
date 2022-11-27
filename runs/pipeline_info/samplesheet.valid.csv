@@ -1,0 +1,3 @@
+sample,single_end,bam
+SAMPLE_PAIRED_END_T1,,https://raw.githubusercontent.com/nf-core/test-datasets/modules/data/genomics/homo_sapiens/illumina/bam/test.paired_end.markduplicates.sorted.bam
+SAMPLE_SINGLE_END_T1,,https://raw.githubusercontent.com/nf-core/test-datasets/modules/data/genomics/homo_sapiens/illumina/bam/test3.single_end.markduplicates.sorted.bam

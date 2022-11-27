@@ -1,0 +1,2 @@
+Sample	Chromosome X	Chromosome Y
+SAMPLE_SINGLE_END_T1	525.0	47.0

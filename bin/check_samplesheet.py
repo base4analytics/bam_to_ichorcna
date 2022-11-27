@@ -26,6 +26,7 @@ class RowChecker:
 
     VALID_FORMATS = (
         ".bam",
+        ".bam?raw=true"
     )
 
     def __init__(

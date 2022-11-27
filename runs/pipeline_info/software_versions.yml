@@ -1,0 +1,10 @@
+CUSTOM_DUMPSOFTWAREVERSIONS:
+  python: 3.10.6
+  yaml: '6.0'
+SAMPLESHEET_CHECK:
+  python: 3.8.3
+SAMTOOLS_SORT:
+  samtools: 1.16.1
+Workflow:
+  Nextflow: 22.10.3
+  nf-core/bamtoichorcna: 1.0dev
