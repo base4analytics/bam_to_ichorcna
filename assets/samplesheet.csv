@@ -1,3 +1,3 @@
-sample,fastq_1,fastq_2
-SAMPLE_PAIRED_END,/path/to/fastq/files/AEG588A1_S1_L002_R1_001.fastq.gz,/path/to/fastq/files/AEG588A1_S1_L002_R2_001.fastq.gz
-SAMPLE_SINGLE_END,/path/to/fastq/files/AEG588A4_S4_L003_R1_001.fastq.gz,
+sample,bam
+SAMPLE_PAIRED_END,https://github.com/nf-core/test-datasets/blob/modules/data/genomics/homo_sapiens/illumina/bam/test.paired_end.markduplicates.sorted.bam
+SAMPLE_SINGLE_END,https://github.com/nf-core/test-datasets/blob/modules/data/genomics/homo_sapiens/illumina/bam/test3.single_end.markduplicates.sorted.bam
